@@ -1,6 +1,6 @@
 
 ```
-Bhavik is a technophile and lifelong learner
+Lifelong learner
 ```
 
 
